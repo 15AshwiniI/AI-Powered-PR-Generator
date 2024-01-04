@@ -3,5 +3,5 @@ echo 'package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, world! Its Ashwini")
+    fmt.Println("Hello, world!")
 }' > main.go
